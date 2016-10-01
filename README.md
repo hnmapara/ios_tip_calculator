@@ -15,3 +15,7 @@ Completed user stories:
 * [x] Optional: Remember the default tip across app restarts and load it
 * [x] Optional: Color in main view
 * [x] Optional: Created class for static method and constant
+
+**Walkthrough of required and optional user stories:**
+
+![](tip_calculator.gif)
